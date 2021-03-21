@@ -1,4 +1,4 @@
-package com.tlk.controller;
+package com.tlk.control;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
