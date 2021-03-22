@@ -5,3 +5,5 @@
 2、注解 springmvcannotation模块
 
 3、restful springrestful模块
+
+4、Jackson jackson模块

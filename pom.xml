@@ -12,6 +12,7 @@
         <module>springmvc1</module>
         <module>springmvcannotation</module>
         <module>springmvcrestful</module>
+        <module>jackson</module>
     </modules>
 
     <properties>

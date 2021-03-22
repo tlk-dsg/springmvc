@@ -9,10 +9,12 @@
         <module name="springmvc1" />
         <module name="springmvcannotation" />
         <module name="springmvcrestful" />
+        <module name="jackson" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springmvc3" target="8" />
+      <module name="springmvcjackson" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -11,5 +11,4 @@ public class HelloController {
         model.addAttribute("msg","Hello SpringMVCAnnotation");
         return "hello";
     }
-
 }
