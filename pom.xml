@@ -11,6 +11,7 @@
     <modules>
         <module>springmvc1</module>
         <module>springmvcannotation</module>
+        <module>springmvcrestful</module>
     </modules>
 
     <properties>

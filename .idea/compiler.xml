@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc1" />
         <module name="springmvcannotation" />
+        <module name="springmvcrestful" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
